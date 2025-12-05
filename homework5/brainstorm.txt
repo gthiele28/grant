@@ -1,0 +1,18 @@
+Topics:
+1. Exoplanets
+2. Visual Astronomy
+3. Black Holes
+4. Quasars
+5. Globular Clusters
+
+Datasets:
+1. Visual Astronomy - https://www.go-astronomy.com/ngc-objects.htm - catalog of NGC objects and their brightness and location
+2. Black Holes - List of microlensing events found by Gaia - https://arxiv.org/abs/2206.06121
+3. Exoplanets - archive of confirmed planets and candidates - https://exoplanetarchive.ipac.caltech.edu/
+
+Brainstorm - Visual Astronomy:
+Loop through data and determine which are visible one at a time, saving the ones that are
+
+Project ideas - Visual Astronomy:
+1. Find visible objects from a location (only above horizon)
+2. Find visible objects incorporating weather/time/location/moon, etc using live data or past data and telescope aperture (improve accuracy by increasing data)
